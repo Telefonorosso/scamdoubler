@@ -1,4 +1,4 @@
-# Emu68 Framethrower UVC - AI CODED
+# scamdoubler - AI CODED
 
 **Turn a PiStorm-equipped Amiga into a standard USB video source for modern computers.**
 
